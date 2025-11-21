@@ -61,7 +61,7 @@ pip install customtkinter openpyxl
 5. Запустите приложение:
 
 ```bash
-python main.py
+python app.py
 ```
 
 6. Авторизация в приложении:
